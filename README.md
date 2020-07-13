@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Go and microservices architecture.
 - 💬 Ask me about training and serving ML solutions.
 - 📫 How to reach me: [rhrisheekesh@gmail.com](mailto::rhrisheekesh@gmail.com)
-- ⚡ Fun fact: What is a 4 letter word that can commonly be found at the start of questions.
+- ⚡ Fun fact: [Do you know how to avoid clickbait?](https://github.com/hrisheekeshr/hrisheekeshr/blob/master/No.md)
 
