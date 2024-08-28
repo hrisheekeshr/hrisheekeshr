@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m an Engineer turned Data Scientist, currently working on [Lumoz](https://lumoz-ai.github.io), an AI solutions marketplace. HMU to know more!
-- 🌱 I’m currently learning Tensorflow and microservices architecture.
-- 💬 Ask me about training and serving ML solutions.
-- 📫 How to reach me: [rhrisheekesh@gmail.com](mailto::rhrisheekesh@gmail.com)
+- 🔭 I’m an Product Manger, Engineer, Data Scientist.
+- 🌱 I’m currently learning react with the help of LLMs
+
 
