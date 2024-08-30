@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m an Product Manger, Engineer, Data Scientist.
-- 🌱 I’m currently learning react with the help of LLMs
+- 🌱 I tinker in python and react.
 
 
